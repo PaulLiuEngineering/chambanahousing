@@ -1,0 +1,372 @@
+Theatre Reference House, 1001 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056467, 'lng': -88.22057099999999}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+Gregory Place II, 1010 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064706, 'lng': -88.22127119999999}
+Urbana, IL 61801, USA
+{'lat': 40.1055337, 'lng': -88.2244557}
+1205 ½ West Nevada Street, 1203 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056762, 'lng': -88.2243562}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+1203 West Oregon Street, 1203 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.10667480000001, 'lng': -88.2243841}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+1205 West Oregon Street, 1205 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.1066982, 'lng': -88.2246081}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+1205 West Oregon Street, 1205 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.1066982, 'lng': -88.2246081}
+1206 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1061358, 'lng': -88.22449859999999}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+Slavic Review, 1207 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.1066692, 'lng': -88.2248302}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+1205 West Oregon Street, 1205 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.1066982, 'lng': -88.2246081}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+1205 West Oregon Street, 1205 W Oregon St, Urbana, IL 61801, USA
+{'lat': 40.1066982, 'lng': -88.2246081}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+1101 S Goodwin Ave, Urbana, IL 61801, USA
+{'lat': 40.1028197, 'lng': -88.2251108}
+1201 W Mulberry St, Denton, TX 76201, USA
+{'lat': 33.21309129999999, 'lng': -97.14545849999999}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+500 S Goodwin Ave, Urbana, IL 61801, USA
+{'lat': 40.1080244, 'lng': -88.2225153}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Altgeld Hall, 1409 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1093349, 'lng': -88.22835859999999}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1005 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1041097, 'lng': -88.2208505}
+201 E Peabody Dr, Champaign, IL 61820, USA
+{'lat': 40.101263, 'lng': -88.2361257}
+1102 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1047425, 'lng': -88.2219207}
+Las Vegas, NV 89154, USA
+{'lat': 36.1044451, 'lng': -115.1420719}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1207 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1038457, 'lng': -88.22513599999999}
+227 Mumford Hall MC 710, 1301 W Gregory Dr, Urbana, IL 61801, United States
+{'lat': 40.1036122, 'lng': -88.2260263}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1410 St Marys Rd, Urbana, IL 61802, USA
+{'lat': 40.096326, 'lng': -88.2274521}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1301 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1092313, 'lng': -88.2261999}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1205 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1056696, 'lng': -88.2246923}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+200 W 74th St, Kansas City, MO 64114, USA
+{'lat': 38.9941496, 'lng': -94.5919184}
+2095 Dickerson Rd, Reno, NV 89503, USA
+{'lat': 39.5225838, 'lng': -119.8374907}
+Champaign, IL, USA
+{'lat': 40.1019523, 'lng': -88.2271615}
+301 N Mathews Ave, Urbana, IL 61801, USA
+{'lat': 40.1148195, 'lng': -88.22607269999999}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+200 W 74th St, Kansas City, MO 64114, USA
+{'lat': 38.9941496, 'lng': -94.5919184}
+5221 S Eastern Ave, Las Vegas, NV 89119, USA
+{'lat': 36.0945646, 'lng': -115.1193072}
+Doris Kelley Christopher Hall, 904 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1063303, 'lng': -88.2195623}
+College Park, MD 20740, USA
+{'lat': 38.9892239, 'lng': -76.9431503}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1102 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1047425, 'lng': -88.2219207}
+201 E Peabody Dr, Champaign, IL 61820, USA
+{'lat': 40.1007672, 'lng': -88.23603399999999}
+1102 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1047425, 'lng': -88.2219207}
+201 E Peabody Dr, Champaign, IL 61820, USA
+{'lat': 40.1007672, 'lng': -88.23603399999999}
+1308 W Main St, Urbana, IL 61801, USA
+{'lat': 40.1148693, 'lng': -88.2267195}
+Champaign, IL 61820, USA
+{'lat': 40.11116699999999, 'lng': -88.2331487}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1304 W Springfield Ave, Urbana, IL 61801, USA
+{'lat': 40.1131069, 'lng': -88.2265673}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+306 N Wright St, Urbana, IL 61801, USA
+{'lat': 40.1148898, 'lng': -88.22801729999999}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Edward R. Madigan Laboratory, 1201 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1037246, 'lng': -88.2238165}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1406 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1108437, 'lng': -88.22830739999999}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1301 W Springfield Ave, Urbana, IL 61801, USA
+{'lat': 40.1124997, 'lng': -88.2269172}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+200-208 W Laurel St, Independence, KS 67301, USA
+{'lat': 37.2255094, 'lng': -95.70801499999999}
+506 S Wright St, Urbana, IL 61801, USA
+{'lat': 40.1083607, 'lng': -88.2282133}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+406 E Armory Ave, Champaign, IL 61820, USA
+{'lat': 40.1058636, 'lng': -88.23251429999999}
+2 Carlton Gardens, St. James's, London SW1Y 5AA, UK
+{'lat': 51.5051869, 'lng': -0.1342791}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+2521 Channing Way, Berkeley, CA 94720, USA
+{'lat': 37.8672226, 'lng': -122.257812}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1401 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1092101, 'lng': -88.2272225}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+500 E Peabody Dr, Champaign, IL 61820, USA
+{'lat': 40.101862, 'lng': -88.23173709999999}
+500 S Goodwin Ave, Urbana, IL 61801, USA
+{'lat': 40.1080244, 'lng': -88.2225153}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Music Building, 1114 W Nevada St #2146, Urbana, IL 61801, USA
+{'lat': 40.106478, 'lng': -88.2230311}
+1408 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1047044, 'lng': -88.22901039999999}
+1110 W Green St Loomis Laboratory, Urbana, IL 61801, USA
+{'lat': 40.110911, 'lng': -88.2233559}
+Mechanical Engineering Building, 1206 W Green St, Urbana, IL 61801, USA
+{'lat': 40.11120409999999, 'lng': -88.2250835}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1109 S Lincoln Ave, Urbana, IL 61801, USA
+{'lat': 40.1027724, 'lng': -88.21991949999999}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+104 S Goodwin Ave MC-230, Urbana, IL 61801, USA
+{'lat': 40.1116641, 'lng': -88.223125}
+1304 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1108597, 'lng': -88.2261108}
+1664 N Virginia St, Reno, NV 89557, USA
+{'lat': 39.5441917, 'lng': -119.816397}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+1114 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.106396, 'lng': -88.22319750000001}
+Nathan Newmark Civil Engineering Laboratory, 205 N Mathews Ave, Urbana, IL 61801, USA
+{'lat': 40.1139618, 'lng': -88.22656479999999}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+1301 W Green St, Urbana, IL 61801, USA
+{'lat': 40.1094472, 'lng': -88.2260208}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+1101 W Peabody Dr, Urbana, IL 61801, USA
+{'lat': 40.1010646, 'lng': -88.2225715}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+225 W Jefferson St, Butler, PA 16001, USA
+{'lat': 40.8609009, 'lng': -79.8981259}
+52, Agriculture Bldg, Columbia, MO 65201, United States
+{'lat': 38.9431552, 'lng': -92.3245529}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+301 E Gregory Dr, Champaign, IL 61820, USA
+{'lat': 40.1039366, 'lng': -88.235502}
+Independence, KS 67301, USA
+{'lat': 37.09024, 'lng': -95.712891}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+805 S Mathews Ave, Urbana, IL 61801, USA
+{'lat': 40.105739, 'lng': -88.2261108}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+2855 Highway 40 W, Verdi, NV 89439, USA
+{'lat': 39.5133282, 'lng': -119.9520725}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Champaign, IL, USA
+{'lat': 40.1019523, 'lng': -88.2271615}
+1215 S 4th St, Champaign, IL 61820, USA
+{'lat': 40.1017884, 'lng': -88.23365539999999}
+Nevada, USA
+{'lat': 38.8026097, 'lng': -116.419389}
+1700 Denison Ave, Manhattan, KS 66502, USA
+{'lat': 39.1984241, 'lng': -96.5845308}
+1008 W Hazelwood Dr, Urbana, IL 61802, USA
+{'lat': 40.0919677, 'lng': -88.2230766}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+931 US-80 #102, Jackson, MS 39204, USA
+{'lat': 32.284269, 'lng': -90.196923}
+Allerton Park & Retreat Center, 515 Old Timber Rd, Monticello, IL 61856, USA
+{'lat': 39.9983398, 'lng': -88.6517012}
+26230 Black Hawk Rd, Galva, IL 61434, USA
+{'lat': 41.165119, 'lng': -89.930261}
+6600 34th Ave, Moline, IL 61265, USA
+{'lat': 41.476882, 'lng': -90.4482079}
+913 Crescent Dr, Champaign, IL 61821, USA
+{'lat': 40.1059502, 'lng': -88.2823031}
+1010 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.10643719999999, 'lng': -88.22106939999999}
+Mumford Hall, 1301 W Gregory Dr, Urbana, IL 61801, USA
+{'lat': 40.1036367, 'lng': -88.2260208}
+650 McConnell Loop, Fayette, AL 35555, USA
+{'lat': 33.7296567, 'lng': -87.8063067}
+1205 W Nevada St MC – 137, Urbana, IL 61801, USA
+{'lat': 40.1057379, 'lng': -88.2246443}
+1215 Houbolt Rd, Joliet, IL 60431, USA
+{'lat': 41.5002857, 'lng': -88.1687295}
+1301 S 48th St, Quincy, IL 62305, USA
+{'lat': 39.913793, 'lng': -91.3364}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1200 W Jeffery St, Kankakee, IL 60901, USA
+{'lat': 41.1049075, 'lng': -87.8856682}
+5250 Shepherd Rd, Springfield, IL 62703, USA
+{'lat': 39.7212664, 'lng': -89.6117019}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1377 21000 Rd, Parsons, KS 67357, USA
+{'lat': 37.2957979, 'lng': -95.2906484}
+440 Aurora Ave, Naperville, IL 60540, USA
+{'lat': 41.7680412, 'lng': -88.1557832}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+Rend Lake, Illinois, USA
+{'lat': 38.1115261, 'lng': -88.9701082}
+2901 Central Rd, Rolling Meadows, IL 60008, USA
+{'lat': 42.0648774, 'lng': -88.0157534}
+W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.1064743, 'lng': -88.2176296}
+1010 W Nevada St, Urbana, IL 61801, USA
+{'lat': 40.10643719999999, 'lng': -88.22106939999999}
+Champaign, IL, USA
+{'lat': 40.1019523, 'lng': -88.2271615}
+901 S National Ave, Springfield, MO 65897, USA
+{'lat': 37.2005546, 'lng': -93.2806806}
